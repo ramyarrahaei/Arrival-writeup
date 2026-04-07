@@ -12,4 +12,4 @@ This write-up documents my participation in the Arrival Challenge. I solved all 
 - Learned about cookies, localStorage, POST requests, Base64/Hex/MD5 decoding.
 
 ## File
-You can download the full write-up [here](arrival-writeup.pdf).
+You can download the full write-up [here](🚀 Arrival Challenge — Write-up.docx).
