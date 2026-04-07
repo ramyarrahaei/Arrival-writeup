@@ -13,4 +13,4 @@ This write-up documents my participation in the Arrival Challenge. I solved all 
 
 ## 📄 Full Write-up
 
-👉 [Download the full write-up](./Arrival%20Challenge%20—%20Write-up.docx)
+👉 [Download the full write-up]([./Arrival%20Challenge%20—%20Write-up.docx](https://github.com/ramyarrahaei/Arrival-writeup/raw/refs/heads/main/%F0%9F%9A%80%20Arrival%20Challenge%20%E2%80%94%20Write-up.docx))
