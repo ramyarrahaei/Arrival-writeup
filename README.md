@@ -11,5 +11,6 @@ This write-up documents my participation in the Arrival Challenge. I solved all 
 - Successfully solved all levels out of 12,000 participants (top 225).
 - Learned about cookies, localStorage, POST requests, Base64/Hex/MD5 decoding.
 
-## File
-You can download the full write-up [here](🚀Arrival Challenge — Write-up.docx).
+## 📄 Full Write-up
+
+👉 [Download the full write-up](./Arrival%20Challenge%20—%20Write-up.docx)
